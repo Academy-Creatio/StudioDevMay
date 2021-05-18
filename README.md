@@ -1,9 +1,9 @@
 # DEVELOPMENT ON CREATIO PLATFORM
 
 ## Useful links
-[Clio][clio] - Integration utility for Creatio platform
-[File System Mode][fsmode] - WIKI how to enable development in filesystem mode
-[Custom Logging][nlog] - How to enable custom logging
+- [Clio][clio] - Integration utility for Creatio platform
+- [File System Mode][fsmode] - WIKI how to enable development in filesystem mode
+- [Custom Logging][nlog] - How to enable custom logging
 
 
 
