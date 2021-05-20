@@ -11,10 +11,10 @@
 - [File System Mode][fsmode] - WIKI how to enable development in filesystem mode
 - [Custom Logging][nlog] - How to enable custom logging
 
-<!-- 
-- [Odata]postman collection 
 
--->
+- [Odata]postman collection
+- Import Postman Environment and Collection from Postman folder. This folder includes DataService requests
+
 
 
 ## SESSION VIDEO RECODING
@@ -22,8 +22,8 @@
 |:--:|:--:|
 |1|[Link][d1v]|
 |2|[Link][d2v]|
-<!-- 
 |3|[Link][d3v]|
+<!-- 
 |4|[Link][d4v]|
 |5|[Link][d5v]|
 |6|[Link][d6v]|
@@ -39,14 +39,17 @@ Thank you for having taken development training with me. In order to make this c
 ---
 ## Instructor
 [Kirill Krylov][about]
+
+
 <a href="mailto:k.krylov@creatio.com">k.krylov@creatio.com</a><br />
 
 
 <!-- Named Links -->
-[d1v]: https://creatio-global.zoom.us/rec/share/DvyvQtYX7Nyry9qFEp_ykASA1zyr6a24hIX6pJNiq8LrK-AtgouPI0JpeGjHfhsQ.Cn2p_EDTcjAZCEHW?startTime=1621259950000
+[d1v]: https://creatio-global.zoom.us/rec/share/_KOMXTJtmzP3HekC1652Q5mviaPLW7p4_Y48SbRjAn0iew2sdT_fIFcoHTqzYI0W.evRXB-nGyKSYXTXu
 [d2v]: https://creatio-global.zoom.us/rec/share/DtuUa2Zf_qLRc86PIYAFuMBbEAxrgsQBgAtGVhmkVS1L_UdVWEu9FCtxjGnVaedM.OCJTq0u7EVSTSBRE
+[d3v]: https://creatio-global.zoom.us/rec/share/QkxousJJByqvXAhXHmOTyg1Mor212KNYQEBM2f5L8Bbm5_KGSI-z6brh1UZuaLZ9.ihaPd-77NwYPOFAn
+
 <!-- Video 
-[d3v]: 
 [d4v]: 
 [d5v]: 
 [d6v]: 
