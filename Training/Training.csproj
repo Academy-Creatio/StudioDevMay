@@ -37,6 +37,7 @@
       <HintPath>packages\CreatioSDK.7.17.4.2265\lib\net40\Quartz.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.ServiceModel.Activation" />
     <Reference Include="System.ServiceModel.Web" />
@@ -126,10 +127,10 @@
       <HintPath>packages\CreatioSDK.7.17.4.2265\lib\net40\Terrasoft.Web.Http.Abstractions.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Files\cs\" />
-  </ItemGroup>
-  <ItemGroup>
+    <Compile Include="Files\cs\EventListeners\ContactELEventListener.cs" />
+    <Compile Include="Files\cs\WebServices\DemoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <!-- ##BpmonlineSDKMarker## -->

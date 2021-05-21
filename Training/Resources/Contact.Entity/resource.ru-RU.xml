@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Подчиненный объект" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Значения по умолчанию для колонок подчиненного объекта" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Фильтр удаления записей" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Связь между колонками родительского и подчиненного объектов" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Фильтр выбора нескольких строк" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Все поля обязательны" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Обязательные поля дочернего объекта" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Фильтр выбора одной строки" />
+			<Item Name="EventsProcessSchema.Caption" Value="Контакт" />
+		</Items>
+	</Group>
+</Resources>

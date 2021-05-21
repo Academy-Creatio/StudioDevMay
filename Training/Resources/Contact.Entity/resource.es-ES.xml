@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.ChildEntitySchemaUId.Caption" Value="Objeto subordinado" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DefaultValues.Caption" Value="Valores por defectos para columnas de objeto padre" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.DeletingFilters.Caption" Value="Filtros para la eliminación de registros" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MappingColumns.Caption" Value="Conexión entre columnas de objeto padre y objeto subordinado" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.MultiRowsSearchFilters.Caption" Value="Filtro para seleccionar varias líneas" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredAllFields.Caption" Value="Todos los campos son obligatorios" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.RequiredFields.Caption" Value="Campos obligatorios en objeto subordinado" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeAnniversary.Parameters.SingleRowSearchFilters.Caption" Value="Filtro para seleccionar línea única" />
+			<Item Name="EventsProcessSchema.Caption" Value="Contacto" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Hur komplett profilen är i procent. Klicka på indikatorn för att visa vilka data du behöver för att göra profilen komplett." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil komplett" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Nya data hittades" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Flöde" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Uppdatera med sociala nätverk-data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ flödet" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ni följer nu flöde: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tidslinje" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Avprenumerera på flöde" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ni har slutat följa flöde: {0}" />
+		</Items>
+	</Group>
+</Resources>

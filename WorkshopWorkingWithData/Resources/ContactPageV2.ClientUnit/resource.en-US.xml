@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiA4IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMiA4Ij48cGF0aCBkPSJtOS43IDNjLS40LTEuNy0xLjktMy0zLjctMy0xLjQgMC0yLjcuOC0zLjMgMi0xLjUuMi0yLjcgMS41LTIuNyAzIDAgMS43IDEuMyAzIDMgM2g2LjVjMS40IDAgMi41LTEuMSAyLjUtMi41IDAtMS4zLTEtMi40LTIuMy0yLjUiIGZpbGw9IiNmY2E3NTQiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNSA2LjVsLTEuNy0xLjcuNy0uOCAxIDEuMSAyLjYtMi42LjcuN3oiLz48L3N2Zz4=" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage of profile completion. Click on the indicator to view which data you need to complete the profile." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profile complete" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>
