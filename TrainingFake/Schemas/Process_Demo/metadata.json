@@ -15,6 +15,14 @@
           "A4": "db4960ae-69e5-443c-995e-b0503c6baac1",
           "A5": "15351b9e-8915-4dba-94c3-3c504522b672",
           "GF1": "null"
+        },
+        {
+          "UId": "9357f801-5629-4266-8a9f-fc696fca6e1e",
+          "A2": "TrainingAPI",
+          "A3": "db4960ae-69e5-443c-995e-b0503c6baac1",
+          "A4": "db4960ae-69e5-443c-995e-b0503c6baac1",
+          "A5": "15351b9e-8915-4dba-94c3-3c504522b672",
+          "GF1": "null"
         }
       ],
       "B6": "9fd786d9-702b-6cc3-57f3-f24b563a327a",
@@ -116,7 +124,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "string a = \"Hello World\";\nvar _logger = LogManager.GetLogger(\"GuidedLearningLogger\");\n_logger.Info(\"Log from business process\");\nreturn true;",
+          "CH1": "string a = \"Hello World\";\nvar _logger = LogManager.GetLogger(\"GuidedLearningLogger\");\n_logger.Info(\"Log from business process\");\n\n\nIMyBusinessLogic myBl =  Factories.ClassFactory.Get<IMyBusinessLogic>(\"MySecondImplementation\");\nvar add = myBl.Add(10, 15);\n_logger.Info(add);\nvar sub = myBl.Sub(10, 7);\n_logger.Info(sub);\n\n\nreturn true;",
           "CH2": true
         },
         {

@@ -2,7 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_236935fe53794b8b87674e1eea451eba.Caption" Value="validate contact" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask_onContactValidating.Caption" Value="validate contact" />
 			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_988164327afe45aa8bb069fac8febb70.Caption" Value="on ContactValidating" />
 			<Item Name="EventsProcessSchema.LaneSets.LaneSet_e95363dee7ed4a699eb6246f2247caea.Caption" Value="LaneSet 1" />
 			<Item Name="EventsProcessSchema.LaneSets.LaneSet_e95363dee7ed4a699eb6246f2247caea.Lanes.Lane_8880206d19ef460bb523942d2a26105f.Caption" Value="Lane 1" />

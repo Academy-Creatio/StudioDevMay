@@ -1,0 +1,64 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+      "A2": "ProcessUserTask_MyBusinessLogic",
+      "A5": "5d92cbe7-5b7a-4da3-95fc-143de1b31f0e",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "97521ebe-973f-4e8e-a7bb-e864354d847c",
+      "B8": "7.17.4.2265",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "9877bb8f-994a-e3d5-b47c-06d14e87c63e",
+          "A2": "a",
+          "A3": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "A4": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "L1": "3f62414e-6c25-4182-bcef-a73c9e396f31",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "03cae55a-80f4-d1fc-8f3d-87f9decbc547",
+          "A2": "b",
+          "A3": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "A4": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "L1": "3f62414e-6c25-4182-bcef-a73c9e396f31",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "1a1276e9-5860-ece3-06e4-b2f00964665f",
+          "A2": "result",
+          "A3": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "A4": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "L1": "3f62414e-6c25-4182-bcef-a73c9e396f31",
+          "L8": {},
+          "L11": false,
+          "L13": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "2503d75b-e833-8a82-ccc1-e03154a63b14",
+          "A2": "mathod",
+          "A3": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "A4": "2051bf4e-53c6-4a45-9abd-d1903325bf00",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        }
+      ],
+      "FK11": "1191e2ac-2291-4ed3-bc9e-93ca87119f6c",
+      "FK12": "#AD2A2A",
+      "FK16": true
+    }
+  }
+}

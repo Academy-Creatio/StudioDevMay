@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "4da6f471-5352-9de8-9fb4-4d5262900585",
+    "Name": "EnableCustomProcessElement_MSSQL",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1621868815000)\/",
+    "DependsOn": []
+  }
+}

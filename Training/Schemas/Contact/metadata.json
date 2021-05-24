@@ -183,6 +183,7 @@
   "A3": "b9e20a85-446d-49ee-9648-b8a7bbb55e78",
   "A4": "b9e20a85-446d-49ee-9648-b8a7bbb55e78",
   "A5": "97521ebe-973f-4e8e-a7bb-e864354d847c",
+  "BL3": "0;5",
   "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
   "BL8": "b9e20a85-446d-49ee-9648-b8a7bbb55e78",
   "BL9": "EntitySchemaManager",
@@ -351,7 +352,7 @@
     {
       "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
       "UId": "236935fe-5379-4b8b-8767-4e1eea451eba",
-      "A2": "ScriptTask4_236935fe53794b8b87674e1eea451eba",
+      "A2": "ScriptTask_onContactValidating",
       "A3": "b9e20a85-446d-49ee-9648-b8a7bbb55e78",
       "A4": "b9e20a85-446d-49ee-9648-b8a7bbb55e78",
       "A5": "97521ebe-973f-4e8e-a7bb-e864354d847c",

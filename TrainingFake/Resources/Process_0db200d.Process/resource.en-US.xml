@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.a.Caption" Value="A" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.a.DisplayValue" Value="100" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.b.Caption" Value="B" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.b.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.mathod.Caption" Value="Method" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.mathod.DisplayValue" Value="sub" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.mathod.Value" Value="sub" />
+			<Item Name="BaseElements.ProcessUserTask_MyBusinessLogic1.Parameters.result.Caption" Value="Result" />
+			<Item Name="Caption" Value="Demo Process - Custom Process Element" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

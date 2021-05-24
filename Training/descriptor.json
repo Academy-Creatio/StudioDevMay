@@ -1,17 +1,17 @@
-{
-	"Descriptor": {
-		"UId": "97521ebe-973f-4e8e-a7bb-e864354d847c",
-		"PackageVersion": "7.8.0",
-		"Name": "Training",
-		"ModifiedOnUtc": "/Date(1621266167000)/",
-		"Maintainer": "Customer",
-		"Description": "Package Source\nhttps://github.com/",
-		"DependsOn": [
-			{
-				"UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
-				"PackageVersion": "7.8.0",
-				"Name": "ProductCore"
-			}
-		]
-	}
+﻿{
+  "Descriptor": {
+    "UId": "97521ebe-973f-4e8e-a7bb-e864354d847c",
+    "PackageVersion": "7.8.0",
+    "Name": "Training",
+    "ModifiedOnUtc": "\/Date(1621266167000)\/",
+    "Maintainer": "Customer",
+    "Description": "Package Source\nhttps://github.com/",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
 }
