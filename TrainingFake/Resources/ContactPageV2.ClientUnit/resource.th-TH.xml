@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="ร้อยละของความสมบูรณ์ของโปร์ไฟล์ คลิกที่ตัวชี้เพื่อดูว่ามีข้อมูลไหนบ้างที่คุณต้องทำโปรไฟล์ให้สมบูรณ์." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="โปรไฟล์เสร็จสมบูรณ์" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="พบข้อมูลใหม่" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="อัพเดตด้วยข้อมูลโซเชียลเนตเวิต์ก" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="ตอนนี้คุณกำลังติดตามฟีด: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="คุณได้หยุดติดตามฟีด: {0}" />
+		</Items>
+	</Group>
+</Resources>

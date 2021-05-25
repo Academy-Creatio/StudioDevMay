@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Procento vyplnění profilu. Klikněte na ukazatel abyste se dozvěděli, jaká data Vám zatím chybí." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profil vyplněn" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Byla nalezena nová data" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Sociální síť" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Načíst ze sociálních sítí" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sledovat kanál" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Nyní sledujete kanál: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Časová osa" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Přestat sledovat" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Přestali jste sledovat tento kanál: {0}" />
+		</Items>
+	</Group>
+</Resources>

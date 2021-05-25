@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="میزان درصد تکمیل پروفایل. روی نوار کلیک کنید تا نمایش کنید کدام اطلاعات را برای تکمیل اطلاعات نیاز دارید." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="پروفایل تکمیل است" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="اطلاعات جدید یافت شد" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="فید" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="بروز رسانی با اطلاعات شبکه های اجتماعی" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="پیگیری این فید را آغاز نمودید: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="تایم لاین" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="پیگیری این فید را متوقف نمودید: {0}" />
+		</Items>
+	</Group>
+</Resources>

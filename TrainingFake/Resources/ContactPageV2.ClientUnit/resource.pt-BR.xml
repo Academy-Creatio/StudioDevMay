@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Porcentagem de conclusão do perfil. Clique no indicador para ver quais dados são necessários para concluir o perfil." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Perfil concluído" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="New data found" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Atualizar com os dados de redes sociais" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Você agora está seguindo o feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Você parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>
