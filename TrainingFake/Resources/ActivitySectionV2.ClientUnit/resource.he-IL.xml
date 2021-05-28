@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="הצג כפילות '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="הדו&quot;ח יופק עבור כל הרשומות במודול, בלי פילטרים. האם אתה מעוניין להמשיך?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="דוא&quot;ל התקבל" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="הגדר סנכרון פעילות" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="הסנכרון מתחיל. אנו נודיע לך כאשר יושלם." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="עכשיו הפגישות והמשימות שלך יהיו תמיד מעודכנות! &lt;br&gt; במידת הצורך, &lt;a href=&quot;#&quot;&gt; שנה את ההגדרות &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="סנכרן עם משימות ופגישות ב- Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+		</Items>
+	</Group>
+</Resources>

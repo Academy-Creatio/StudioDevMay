@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Hiển thị trùng lặp '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Báo cáo sẽ được tạo cho tất cả các bản ghi trong phần, không có bộ lọc. Bạn có muốn tiếp tục?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="Đã nhận các email" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Thiết lập đồng bộ hóa hoạt động" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="Đồng bộ hóa được bắt đầu. Chúng tôi sẽ thông báo khi hoàn tất." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Giờ đây, các cuộc họp và nhiệm vụ của bạn sẽ luôn được cập nhật! &lt;br&gt; Nếu cần, &lt;a href=&quot;#&quot;&gt; thay đổi cài đặt &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="Đồng bộ hóa với các tác vụ và cuộc họp trong Trao đổi" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+		</Items>
+	</Group>
+</Resources>

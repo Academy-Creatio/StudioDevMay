@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Перейти до дублів розділу '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Звіт буде сформовано по всім записам розділу, без врахування фільтрів. Продовжити?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="Завантаження листів завершено" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Налаштувати синхронізацію активностей" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатись на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="Синхронізацію розпочато. Ми покажемо вам повідомлення, коли вона завершиться." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Вітаємо! Відтепер ваші зустрічі та завдання завжди будуть актуальні.&lt;br&gt;Ви можете &lt;a href=&quot;#&quot;&gt;змінити налаштування&lt;/a&gt;, які ми встановили за замовчуванням." />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="Синхронізувати із завданянми та зустрічами Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатися від оновлень стрічки" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,14 +1,15 @@
 = MetaData.Schema.UId "50087fb8-f39f-4717-bf6e-bfa7d7efeead"
+= MetaData.Schema.A5 "7acde1b3-28f9-4210-9366-66ff62846769"
 + MetaData.Schema.B2 {
   "UId": "41a33074-0172-8877-f1e4-1dd5ba054ca7",
-  "A2": "actionTwoTagCaption",
+  "A2": "ActionTwoCaption",
   "A3": "50087fb8-f39f-4717-bf6e-bfa7d7efeead",
   "A4": "50087fb8-f39f-4717-bf6e-bfa7d7efeead",
   "A5": "15351b9e-8915-4dba-94c3-3c504522b672"
 }
 + MetaData.Schema.B2 {
   "UId": "8c947863-dc7e-8b3a-efae-9554266d2f09",
-  "A2": "actionOneTagCaption",
+  "A2": "ActionOneCaption",
   "A3": "50087fb8-f39f-4717-bf6e-bfa7d7efeead",
   "A4": "50087fb8-f39f-4717-bf6e-bfa7d7efeead",
   "A5": "15351b9e-8915-4dba-94c3-3c504522b672"

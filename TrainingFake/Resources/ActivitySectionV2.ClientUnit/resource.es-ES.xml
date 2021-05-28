@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Mostrar duplicado '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="El informe se generará para todos los registros de la sección, sin filtros. ¿Desea continuar?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="Correos electrónicos recibidos" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Configurar la sincronización de actividades" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sigue el feed" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="Sincronización iniciada. Una vez finalizada, le enviaremos una notificación." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="¡Ahora sus reuniones y tareas estarán siempre actualizadas!&lt;br&gt;Si necesita, &lt;a href=&quot;#&quot;&gt;cambie los ajustes.&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="Sincronizar con tareas y reuniones de Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Dejar de seguir el feed" />
+		</Items>
+	</Group>
+</Resources>

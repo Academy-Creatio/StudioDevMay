@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="LocalizableStrings.ActionOneCaption.Value" Value="Action One" />
+			<Item Name="LocalizableStrings.ActionTwoCaption.Value" Value="Action One" />
 			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Porcentaje de finalización del perfil. Haga clic en el indicador para ver qué datos necesita para completar el perfil." />
 			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Perfil completo" />
 			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Nuevos datos encontrados" />

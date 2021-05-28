@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="แสดงสิ่งที่ซ้ำ '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="อีเมลที่ได้รับ" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="ตั้งค่าการซิงค์โครไนซ์กิจกรรม" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="การซิงค์โครไนซ์เริ่มแล้ว  เราจะแจ้งคุณเมื่อมันทำงานแล้วเสร็จ." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="ตอนนี้ การประชุมและภาระงานของคุณจะเป็นปัจจุบันเสมอ!&lt;br&gt;หากจำเป็น, &lt;a href=&quot;#&quot;&gt;เปลี่ยนการตั้งค่า&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="ซิงค์โครไนซ์กับภาระงานและการประชุมใน Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="رسائل البريد الإلكتروني الواردة" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="إعداد مزامنة النشاط" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="متابعة التغذية" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="بدء تشغيل المزامنة. سنقوم بإشعارك عندما يتم الانتهاء من ذلك." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="&lt;br&gt;إذا لزم الأمر، &lt;a href=&quot;#&quot;&gt;تغيير الإعدادات&lt;/a&gt;الآن دائماً ستكون الاجتماعات والمهام الخاصة بك محدثة" />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="مزامنة مع المهام والاجتماعات في تبادل" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="إلغاء متابعة التغذية" />
+		</Items>
+	</Group>
+</Resources>

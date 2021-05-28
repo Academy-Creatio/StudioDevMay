@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Afficher le doublon '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Le rapport sera généré pour tous les enregistrements de la section, sans filtres. Voulez-vous continuer?" />
+			<Item Name="LocalizableStrings.LoadingMessagesComplete.Value" Value="Emails reçus" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Configurer la synchronisation de l'activité" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Suivre le feed" />
+			<Item Name="LocalizableStrings.SynchronizeWithExchangeStart.Value" Value="La synchronisation a démarré. Nous vous informerons quand cela sera réalisé." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Désormais, vos rendez-vous et activités seront toujours à jour! &lt;Br&gt; Si nécessaire, &lt;a href=&quot;#&quot;&gt; modifiez les paramètres &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.SyncWithExchangeCaption.Value" Value="Synchroniser avec les activités et rendez-vous d'Exchange" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ne plus suivre le feed" />
+		</Items>
+	</Group>
+</Resources>

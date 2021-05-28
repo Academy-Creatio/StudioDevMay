@@ -1,0 +1,21 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2a1a32a3-d079-445e-b1c8-6953d2d4b8ff"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "Setting Value 1234567890"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "6c219838-dee2-4b6e-9372-cde3bdc61b58",
+          "DisplayValue": "My System Setting"
+        }
+      ]
+    }
+  ]
+}

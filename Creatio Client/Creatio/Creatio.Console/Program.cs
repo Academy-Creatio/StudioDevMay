@@ -16,16 +16,16 @@ namespace Creatio.Console
 			var app = new MainApp();
 			await app.LogIn();
 
-			string s = await app.ExecuteQuery(CreateRequestQuery());
-			string s = await app.ExecuteQuery(CreateInsertQuery());
-			System.Console.WriteLine(s);
+			//string s = await app.ExecuteQuery(CreateRequestQuery());
+			//string s = await app.ExecuteQuery(CreateInsertQuery());
+			//System.Console.WriteLine(s);
+			await app.ExecuteQuery(CreateDeleteRequestQuery(Guid.Parse("8e007dd9-a112-47c2-b37b-66e9047c6314")));
 
-
-			if (Guid.TryParse("feef7fc8-7ca6-448f-951c-80659aaf2bf5", out Guid id))
-			{
-				string result = await app.ExecuteQuery(CreateSelectContactByIdQuery(id));
-				System.Console.WriteLine(result);
-			}
+			//if (Guid.TryParse("410006e1-ca4e-4502-a9ec-e54d922d2c00", out Guid id))
+			//{
+			//	string result = await app.ExecuteQuery(CreateSelectContactByIdQuery(id));
+			//	System.Console.WriteLine(result);
+			//}
 
 			return 0;
 		}
@@ -134,11 +134,51 @@ namespace Creatio.Console
 					},
 					LogicalOperation = Terrasoft.Common.LogicalOperationStrict.And,
 					FilterType = FilterType.FilterGroup,
-					IsEnabled = true
+					IsEnabled = true,
 				}
 				
 			};
 		}
+		private static DeleteQuery CreateDeleteRequestQuery(Guid id)
+		{
+			DeleteQuery q = new DeleteQuery
+			{
+				RootSchemaName = "Contact",
+				Filters = new Filters
+				{
+					Items = new System.Collections.Generic.Dictionary<string, Filter>
+					{
+						{ "ById", new Filter
+							{
+								FilterType = FilterType.CompareFilter,
+								ComparisonType = Terrasoft.Core.Entities.FilterComparisonType.Equal,
+								IsEnabled = true, 
+								TrimDateTimeParameterToDate = true,
+								LeftExpression = new BaseExpression
+								{
+									ExpressionType = Terrasoft.Core.Entities.EntitySchemaQueryExpressionType.SchemaColumn,
+									ColumnPath = "Id"
+								},
+								RightExpression = new BaseExpression
+								{
+									ExpressionType = Terrasoft.Core.Entities.EntitySchemaQueryExpressionType.Parameter,
+									Parameter = new Parameter
+									{
+										DataValueType = DataValueType.Guid,
+										Value = id
+									}
 
+								}
+
+							}
+						}
+					},
+					LogicalOperation = Terrasoft.Common.LogicalOperationStrict.And,
+					FilterType = FilterType.FilterGroup,
+					IsEnabled = true
+				},
+			};
+			return q;
+		}
 	}
 }

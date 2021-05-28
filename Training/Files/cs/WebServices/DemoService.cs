@@ -28,9 +28,9 @@ namespace Training
 		[OperationContract]
 		[WebInvoke(Method = "POST", RequestFormat = WebMessageFormat.Json, 
 			BodyStyle = WebMessageBodyStyle.Bare, ResponseFormat = WebMessageFormat.Json)]
-		public DemoDto GetMethodName(DemoDto person)
+		public DemoDto PostMethodName(DemoDto person)
 		{
-			//http://k_krylov:7050/0/rest/DemoService/GetMethodName
+			//http://k_krylov:7050/0/rest/DemoService/PostMethodName
 			//UserConnection userConnection = UserConnection ?? SystemUserConnection;
 
 
